@@ -1,0 +1,13 @@
+фіолетовий: #B887A5
+
+білий:      #F2E9EA
+
+червоний:   #D86970
+-------
+Шрифти:
+
+Roboto
+
+Montserrat
+
+Playwrite Italia Moderna
